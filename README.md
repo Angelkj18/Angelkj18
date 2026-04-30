@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 2nd year BSc.Computer Science student <br>I’m currently working on College projects and improving my coding fundamentals.<br>I’m currently learning Python , PostgresSQL and Networking<br>I’m looking to collaborate on Open-source projects, beginner-friendly full-stack apps, and creative tech ideas with social impact.
+I'm a 3rd year BSc.Computer Science student <br>I’m currently working on College projects and improving my coding fundamentals.<br>I’m currently learning Python , PostgresSQL and Networking<br>I’m looking to collaborate on Open-source projects, beginner-friendly full-stack apps, and creative tech ideas with social impact.
 
 
 ## 🌐 Socials:
